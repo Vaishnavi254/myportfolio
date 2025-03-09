@@ -72,7 +72,7 @@ Make sure you have the following installed:
 2. Open the project folder in your code editor.
 
 3. Open the `index.html` file in your browser to view the portfolio.
-
+4. My website is live at https://vaishnavi254.github.io/myportfolio/ 
 
 ## Contributing
 
