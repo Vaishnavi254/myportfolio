@@ -24,7 +24,6 @@ This portfolio is built using a variety of web technologies and tools:
   - HTML5
   - CSS3 (with Flexbox and Grid Layout)
   - JavaScript (with jQuery)
-  - ReactJs
   - Bootstrap (for responsive design)
   - Google Fonts (for custom fonts)
   - Font Awesome (for icons)
